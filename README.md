@@ -1,4 +1,4 @@
-# 소개 👋
+## 소개 👋
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjgus05281)](https://solved.ac/tjgus05281)
