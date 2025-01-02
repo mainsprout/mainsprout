@@ -1,5 +1,5 @@
 ## 소개 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sprout&fontSize=80" />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjgus05281)](https://solved.ac/tjgus05281)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjgus05281&theme=warm)
