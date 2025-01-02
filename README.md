@@ -1,5 +1,5 @@
 ## 소개 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&thema=radical&height=200&section=header&text=Sprout&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&thema=merko&height=200&section=header&text=Sprout&fontSize=90" />
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjgus05281)](https://solved.ac/tjgus05281)
