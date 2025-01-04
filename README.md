@@ -18,6 +18,6 @@
 
 <br />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjgus05281)](https://solved.ac/tjgus05281)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjgus05281)](https://solved.ac/tjgus05281)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjgus05281&theme=warm)
 
