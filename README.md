@@ -12,6 +12,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mainsprout&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjgus05281)](https://solved.ac/tjgus05281)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjgus05281&theme=warm)
 <!--
