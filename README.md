@@ -15,9 +15,7 @@
 <br />
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjgus05281)](https://solved.ac/tjgus05281)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjgus05281&theme=warm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjgus05281)](https://solved.ac/tjgus05281)   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjgus05281&theme=warm)
 <!--
 **mainsprout/mainsprout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
