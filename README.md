@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&customColorList=3&height=200&section=header&text=sprout&fontSize=80&fontAlign=80&width=100" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&customColorList=3&height=200&section=header&text=sprout&fontSize=80&fontAlign=80&width=130" />
 
 ## 🌱 성장하는 새싹 개발자 임서현입니다 
 
