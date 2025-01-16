@@ -5,7 +5,6 @@
 ## 🌱 새싹 개발자 임서현입니다  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjgus05281)](https://solved.ac/tjgus05281)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjgus05281&theme=warm)
 
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
