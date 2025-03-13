@@ -11,10 +11,12 @@
 ## STUDYING
 
 ### 🌻 자신있어요!
-<img src="https://img.shields.io/badge/springboot-6DB33F?&style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/c++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/java-FC5531?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/springboot-6DB33F?&style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/c++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/java-FC5531?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 
 ### 🌱 다룰 수 있어요!
 <img src="https://img.shields.io/badge/next.js-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-2496ED?&style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
 
 <br />
 
