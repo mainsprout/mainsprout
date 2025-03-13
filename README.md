@@ -13,7 +13,7 @@
 ### 🌻 자신있어요!
 <img src="https://img.shields.io/badge/springboot-6DB33F?&style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/c++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/java-FC5531?&style=for-the-badge&logoColor=white" />
 
-### 🌱 공부중이에요!
+### 🌱 다룰 수 있어요!
 <img src="https://img.shields.io/badge/next.js-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
 <br />
