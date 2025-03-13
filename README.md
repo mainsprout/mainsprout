@@ -11,7 +11,7 @@
 ## STUDYING
 
 ### 🌻 자신있어요!
-<img src="https://img.shields.io/badge/spring-6DB33F?&style=for-the-badge&logo=fortran&logoColor=white" />
+<img src="https://img.shields.io/badge/spring-6DB33F?&style=for-the-badge&logo=spring&logoColor=white" />
 ### 🌱 공부중이에요!
 
 <br />
